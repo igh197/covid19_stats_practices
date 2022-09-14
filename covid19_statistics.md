@@ -24,7 +24,7 @@
 
 
 
-### Korean Population by Region
+### Korean COVID-19 New Cases by Region
 * Total population: 1714
 
 | Region | New Cases | Ratio (%) | New Cases / 1M |
