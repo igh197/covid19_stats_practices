@@ -17,7 +17,7 @@ sum_covid = sum(n_covid)  # TODO: The total number of new cases
 norm_covid = normalize_data(n_covid, n_people, 1000000)  # The new cases per 1 million people
 
 # Print population by region
-print('### Korean Population by Region')
+print('### Korean COVID-19 New Cases by Region')
 print('* Total population:', sum_covid)
 print()  # Print an empty line
 print('| Region | New Cases | Ratio (%) | New Cases / 1M |')
